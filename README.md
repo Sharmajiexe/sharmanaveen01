@@ -5,13 +5,29 @@
 
 <p align="left"> <a href="https://twitter.com/naveen05090" target="blank"><img src="https://img.shields.io/twitter/follow/naveen05090?logo=twitter&style=for-the-badge" alt="naveen05090" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 📊 I'm currently working on **Data Science Projects**.
 
-- 🌱 I’m currently learning **Advance Python**
+- 📚 I'm currently learning **AWS**.
 
-- 📫 How to reach me **sharmanaveen1432@gmail.com**
+- 🕵 I'm looking to collaborate on **Open Source Projects**.
 
-- ⚡ Fun fact **BGMI is my life.**
+- 💬 Ask me about **Data Science Skills**.
+
+- 📬 How to reach me: **@NvnSharm05(GitHub, Twitter, Medium)**
+
+- 😅 Pronouns: Coder(20%), Sharma Ji(80%).
+
+-⚡Fun fact:
+ - 🛩️Travelling(Delhi, Bihar, Jammu, Nepal, Punjab, Haryana).
+
+ -🎮 Gaming (Pubg, COC).
+
+ - 🎸Listening Songs.
+
+- 🙎More about me:
+ 
+ Student Of science(Non-Medical) in grad 12th want to be great Data Scientist.
+ I want to study abroad to gain valuable knowledge and education. Practicing to be a more bright person.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
