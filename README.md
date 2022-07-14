@@ -26,7 +26,7 @@
 
 - 🙎More about me:
  
- Student Of science(Non-Medical) in grad 12th want to be great Data Scientist.
+ Student Of Science(Non-Medical) in grade 12th and  want to be great Data Scientist.
  I want to study abroad to gain valuable knowledge and education. Practicing to be a more bright person.
 
 <h3 align="left">Connect with me:</h3>
