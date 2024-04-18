@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Naveen Sharma</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmanaveen01&label=Profile%20views&color=0e75b6&style=flat" alt="sharmanaveen01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sharmajiexe&label=Profile%20views&color=0e75b6&style=flat" alt="Sharmajiexe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/naveen05090" target="blank"><img src="https://img.shields.io/twitter/follow/naveen05090?logo=twitter&style=for-the-badge" alt="naveen05090" /></a> </p>
 
-- 📊 I'm currently working on **Data Science Projects**.
+- 📊 I'm currently working on **Dot Net**.
 
 - 📚 I'm currently learning **AWS**.
 
 - 🕵 I'm looking to collaborate on **Open Source Projects**.
 
-- 💬 Ask me about **Data Science Skills**.
+- 💬 Ask me about **Dot Net & Data Science Skills**.
 
 - 📬 How to reach me: **@NvnSharm05(GitHub, Twitter, Medium)**
 
-- 😅 Pronouns: Coder(20%), Sharma Ji(80%).
+- 😅 Pronouns: Coder(20%), Sharmaji(80%).
 
 -⚡Fun fact:
- - 🛩️Travelling(Delhi, Bihar, Jammu, Nepal, Punjab, Haryana).
+ - 🛩️Travelling(Delhi, Bihar, Jammu, Nepal, Punjab, Haryana,Jaipur).
 
  -🎮 Gaming (Pubg, COC).
 
@@ -26,7 +26,7 @@
 
 - 🙎More about me:
  
- Student Of Science(Non-Medical) in grade 12th and  want to be great Data Scientist.
+ Student Of Science(Non-Medical) in grade 12th.
  I want to study abroad to gain valuable knowledge and education. Practicing to be a more bright person.
 
 <h3 align="left">Connect with me:</h3>
